@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MGET</string>
+    <string name="tv_loading_text">数据加载中....</string>
+    <string name="bottomBarPic_text">图片</string>
+    <string name="bottomBarArticle_text">文章</string>
+    <string name="bottomBarAbout_about">关于</string>
+    <string name="send_to">分享到</string>
+    <string name="tv_support_text">支持我们</string>
+    <string name="tv_res_from_text">资源来自</string>
+    <string name="tv_gank_text">干货集中营</string>
+    <string name="tv_get_codes_text">获取源码</string>
+    <string name="tv_qq_text">请联系小猴子QQ：876948462</string>
+</resources>
