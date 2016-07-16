@@ -39,7 +39,7 @@ public class ArticleActivity extends BaseActivity {
         WebSettings settings = progressweb.getSettings();
         settings.setJavaScriptEnabled(true);
         progressweb.loadUrl(Url);
-        tv_web.setText("网页由github 提供");  //TODO 拼接字符串实现对应网站提供
+        tv_web.setText("网页由github.com 提供");  //TODO 拼接字符串实现对应网站提供
         tv_intro.setText("已启用 逗比 内核支持");
     }
 

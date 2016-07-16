@@ -70,6 +70,8 @@ public class IosFragment extends BaseFragment {
                         if (article != null) {
                             articleList.addAll(article.getResults());
                             articleAdapter.notifyDataSetChanged();
+                            articleRecycler.scrollToPosition(articleAdapter.getItemCount() - 13);
+                            SnackbarUtil.ShortSnackbar(view, "各位哥哥，小女子给你刷出了15条数据", SnackbarUtil.Confirm).show();
                         }
                     }
                 };

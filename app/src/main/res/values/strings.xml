@@ -9,5 +9,5 @@
     <string name="tv_res_from_text">资源来自</string>
     <string name="tv_gank_text">干货集中营</string>
     <string name="tv_get_codes_text">获取源码</string>
-    <string name="tv_qq_text">请联系小猴子QQ：876948462</string>
+    <string name="tv_codes_text">项目主页：https://github.com/monsterLin/GankClient</string>
 </resources>
