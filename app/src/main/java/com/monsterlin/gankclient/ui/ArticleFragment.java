@@ -45,8 +45,10 @@ public class ArticleFragment extends Fragment {
         Fragment androidFragment = new AndroidFragment();
         Fragment iosFragment = new IosFragment();
 
+
         adapter.addFragment(androidFragment, "Android");
         adapter.addFragment(iosFragment, "Ios");
+
 
         mViewPager.setAdapter(adapter);
         mViewPager.setOffscreenPageLimit(cachePagers);
