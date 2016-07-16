@@ -1,4 +1,4 @@
-package com.monsterlin.gankclient.ui;
+package com.monsterlin.gankclient.ui.base;
 
 import android.app.Activity;
 import android.content.Context;

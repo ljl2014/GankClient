@@ -5,7 +5,7 @@ import android.util.Log;
 import com.liaoinstan.springview.widget.SpringView;
 import com.monsterlin.gankclient.bean.Data;
 import com.monsterlin.gankclient.http.HttpMethods;
-import com.monsterlin.gankclient.ui.BaseFragment;
+import com.monsterlin.gankclient.ui.base.BaseFragment;
 import com.monsterlin.gankclient.utils.SnackbarUtil;
 
 import rx.Subscriber;
