@@ -9,6 +9,9 @@
 ## 数据来源
 - 本程序数据来自[干货集中营](http://gank.io/)
 
+## 下载试用
+ [戳我下载](apk/app-debug.apk)
+
 ## 程序演示
 ![](showimg/showgank.gif)
 
