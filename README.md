@@ -15,9 +15,5 @@
 ## 程序演示
 ![](showimg/showgank.gif)
 
-## 支持我
-### 如果你喜欢，请为小编买杯咖啡吧，小编将万分感谢
-
-![](showimg/alipay.png)
 
 
