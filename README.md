@@ -2,7 +2,6 @@
 > 一款使用RxJava+Retrofit实现的简易Gank客户端
 
 ## 写在前面
-- 本程序不得用于商业用途
 - 本程序不得用户比赛使用
 - 程序为小编练习Rxjava+Retrofit所实现的demo
 
